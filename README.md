@@ -1,4 +1,4 @@
-# -Frontend-Interview
+# Frontend-Task
 CA Monk - Blog Application Assignment
 Welcome to the **CA Monk Blog Application Assignment**!  
 This project evaluates your ability to build a modern React application using server-state management, component libraries, and responsive UI.
